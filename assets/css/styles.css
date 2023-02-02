@@ -1,3 +1,16 @@
 body {
   background-color: lightyellow;
 }
+
+.important {
+  color: red;
+  font-weight: bolder;
+}
+
+.block {
+  background-color: aqua;
+}
+
+.b {
+  font-weight: bold;
+}
