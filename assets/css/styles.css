@@ -1,16 +1,81 @@
-body {
-  background-color: lightyellow;
-}
-
-.important {
+/* h1 {
   color: red;
-  font-weight: bolder;
+  color: gold;
+  color: green
 }
 
-.block {
-  background-color: aqua;
+p {
+  background-color: red;
+  background-color: yellow;
+  color: blue
 }
 
-.b {
-  font-weight: bold;
+p {
+  color: purple
+} */
+
+.heading {
+  color: blue;
 }
+
+h1 {
+  color: red;
+}
+
+/* .body {
+  background-color: chartreuse;
+}
+
+body {
+  background-color: antiquewhite;
+} */
+
+#paragraph {
+  background-color: gold;
+}
+
+.paragraph {
+  background-color: blue;
+}
+
+p {
+  /* background-color: red; */
+}
+
+.section {
+  background-color: gold;
+}
+
+/* .text {
+  color: yellow;
+  background-color: green;
+}
+
+h6.text {
+   text-transform: uppercase;
+}
+
+p.text {
+  font-size: 40px;
+} */
+
+/* .section p {
+  background-color: red;
+}
+
+.section h2 {
+  background-color: pink;
+} */
+
+/* .section .text {
+  background-color: red;
+}
+
+.block.text {
+  background-color: pink;
+} */
+
+/* article.group.text p.content {
+  color: pink;
+  background-color: black;
+} */
